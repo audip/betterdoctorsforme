@@ -6,4 +6,4 @@ gevent
 requests
 nose
 flask_cors
-zappa
+# zappa
