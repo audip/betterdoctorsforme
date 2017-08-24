@@ -3,6 +3,7 @@ import os
 
 # Read PORT available on cloud server
 port = int(os.environ.get('PORT', 8000))
+debug_flag = False
 
 if __name__ == '__main__':
     # Run the flask app
